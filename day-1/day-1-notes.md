@@ -1,4 +1,7 @@
 <h1> Day 1 Notes <h1>
 
-Learned ACP Add Commit Push
-
+<ul>
+    <li>Learned ACP "Add Commit Push"
+    <li>Slowly learning Visual Studio Code
+    <li>More comfortable with V.S than <em>terminal 
+</ul>
